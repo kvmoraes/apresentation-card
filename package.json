@@ -7,7 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": "./cli.js",
-  "author": "",
+  "keywords": [
+    "Karine Vitória",
+    "karine.moraes",
+    "kvmoraes"
+  ],
+  "author": "Karine Vitória",
   "license": "ISC",
   "dependencies": {
     "prettyjson": "^1.2.5"
