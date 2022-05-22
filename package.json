@@ -12,6 +12,10 @@
     "karine.moraes",
     "kvmoraes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvmoraes/apresentation-card.git"
+  },
   "author": "Karine Vitória",
   "license": "ISC",
   "dependencies": {
