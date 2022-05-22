@@ -17,4 +17,5 @@ var options = {
   stringColor: 'white'
 };
 
-console.log(prettyjson.render(data, options));
+module.exports = prettyjson.render(data, options);
+
